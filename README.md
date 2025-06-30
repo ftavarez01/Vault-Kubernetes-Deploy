@@ -1,2 +1,2 @@
 # Vault-Kubernetes-Deploy
-Secure Secret Management in Kubernetes: Manual Deployment of HashiCorp Vault with TLS
+Gestión Segura de Secretos en Kubernetes: Despliegue Manual de HashiCorp Vault con TLS.
