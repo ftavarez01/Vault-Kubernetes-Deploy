@@ -7,4 +7,4 @@ Este repositorio detalla un despliegue de HashiCorp Vault en Kubernetes, prioriz
 
 A continuación, se presenta un diagrama conceptual del despliegue de HashiCorp Vault en nuestro clúster de Kubernetes, mostrando la encriptación TLS y la persistencia de secretos.
 
-<img src="./assets/vault-kubernetes-diagram-deploy.png" width="555" heigth="234">
+<img src="./assets/vault-kubernetes-diagram-deploy.png" width="455" heigth="234">
